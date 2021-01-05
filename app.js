@@ -725,6 +725,135 @@
 // Question no 1
 
 
+// var array = [];
+
+// Question no 2
+
+// var array = [""];
+
+// Question no 3
+
+// var name = ["bilal", "ali", "mughees", "junaid"];
+
+// Question no 4
+
+// var age = [15, 20, 30, 35];
+
+// Question no 5
+
+// var all = ["true", "flase"];
+
+// Question no 6
+
+// var mix= ["bilal", 23 , true];
+
+// Question no 7
+
+// var qualification = [ "SSC","HSC","BCS","BS","BCOM","MS","M.Phil","PhD"];
+
+// document.write("<h1>Qulification</h1>")
+// document.write(qualification [0] + "<br>");
+// document.write(qualification [1] + "<br>");
+// document.write(qualification [2] + "<br>");
+// document.write(qualification [3] + "<br>");
+// document.write(qualification [4] + "<br>");
+// document.write(qualification [5] + "<br>");
+// document.write(qualification [6] + "<br>");
+// document.write(qualification [7] + "<br>");
+
+// Question no 8
+
+// var studentName = ["ALi" , "Dilawar" , "Mughees"];
+// var getScore = ["480" , "240" , "320"];
+
+// document.write("Score of" + " " + studentName[0] + " " + "is" + " " + getScore[0] + " " + "Percentage:" + (getScore[0] * 100 / 500) + "%" + "<br>");
+// document.write("Score of" + " " + studentName[1] + " " + "is" + " " + getScore[1] + " " + "Percentage:" + (getScore[1] * 100 / 500) + "%"  + "<br>");
+// document.write("Score of" + " " + studentName[2] + " " + "is" + " " + getScore[2] + " " + "Percentage:" + (getScore[2] * 100 / 500) + "%"  + "<br>");
+
+
+// Question no 9
+
+
+// Question no 10
+
+// var score = ["321" , "230" , "480" , "120"];
+
+// document.write("Stores of Students" + " " + score + "<br>");
+// document.write("Ordered Stores of Students" + " " + score[3] + "," + score[1] + "," + score[0] + "," + score[2]);
+
+
+// Question no 11
+
+// var cities =["Karachi" , "Mulatan" , "Hyderabad" , "Lahore"];
+
+// document.write("Cities List" + "<br>"  + cities + "<br>");
+// document.write("Selected Cities List" + "<br>"  + cities[3] + "," + cities[1] + ",");
+
+// Question no 12
+
+// var array =["this" , "is" , "my" , "cat"];
+
+// document.write("Array:" + "<br>" + " " + array + "<br>");
+// document.write("Strings:" + "<br>"   + array[0] + " " + array[1] + " " + areay[2] + " " + array[3]);
+
+// Question no 13
+
+// var array =["keyboard" , "mouse" , "printer" , "monitor"];
+
+// document.write("Devices:" + "<br>" + " " + array + "<br><br><br>");
+// document.write("Out:" + "<br>" + array[0] + "<br>" + "Out:" + "<br>" +  array[1] +  "<br>" + "Out:" + "<br>"  + array[2] +   "<br>" + "Out:" + "<br>"  + array[3]);
+
+// Question no 14
+
+// var array =["keyboard" , "mouse" , "printer" , "monitor"];
+
+// document.write("Devices:" + "<br>" + " " + array + "<br><br><br>");
+// document.write("Out:" + "<br>" + array[3] + "<br>" + "Out:" + "<br>" +  array[2] +  "<br>" + "Out:" + "<br>"  + array[1] +   "<br>" + "Out:" + "<br>"  + array[0]);
+
+// Question no 15
+
+// var array = ["Apple", "Sumsung", "Motorola", "Nokia", "Sony" , "Haier"];
+
+
+// document.write("<select>" + "<option>" + array[0] + "</option>" + "<option>" + array[1] + "</option>" + "<option>" + array[2] + "</option>" + "<option>" + array[3] + "</option>" + "<option>" + array[4] + "</option>" + "<option>" + array[5] + "</option>" + "</select>");
+
+// Chapter No # 17-20
+
+// Question no 1
+
+// var array = [];
+// array = [2],[4];
+
+
+
+// Question no 2
+
+// Question no 3
+
+// var counting = [1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9 , 10];
+
+// for(var i = 0; i < counting.length; i++ ){
+
+// document.write(i + "<br>")
+// }
+
+// Question no 4
+
+// var table = prompt("Enter Your Table");
+// var range = prompt("Enter Your range");
+// for(i = 1; i <= range; i++)
+//  document.write(table + " X " +i+ " = " +(i * table) + "<br>");
+
+// / Question no 10
+
+// var table = 5;
+// for(i = 5; i <=105; i+5){
+//  document.write(table +  "<br>");
+// }
+
+
+
+
 
 
 
